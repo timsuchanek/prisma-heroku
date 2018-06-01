@@ -5,8 +5,8 @@ This repository showcases how to deploy Prisma to Heroku.
 ## Prerequisites
 
 1. A Heroku account.
-1. Have the Heroku CLI intalled.
-1. Have Docker installed.
+1. Heroku CLI installed.
+1. Docker installed.
 
 ## Step-by-step example deployment
 
